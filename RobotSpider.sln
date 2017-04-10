@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25123.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RobotSpider", "RobotSpider\RobotSpider.csproj", "{B765EF70-82B0-4A9D-9FE4-3AC4AB258D29}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RobotSpiderTests", "RobotSpiderTests\RobotSpiderTests.csproj", "{1F1BEBC9-134D-4902-AB35-2A41525D253E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B765EF70-82B0-4A9D-9FE4-3AC4AB258D29}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B765EF70-82B0-4A9D-9FE4-3AC4AB258D29}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B765EF70-82B0-4A9D-9FE4-3AC4AB258D29}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B765EF70-82B0-4A9D-9FE4-3AC4AB258D29}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1F1BEBC9-134D-4902-AB35-2A41525D253E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1F1BEBC9-134D-4902-AB35-2A41525D253E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1F1BEBC9-134D-4902-AB35-2A41525D253E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1F1BEBC9-134D-4902-AB35-2A41525D253E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

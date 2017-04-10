@@ -1,0 +1,10 @@
+d:\documents\visual studio 2015\Projects\RobotSpider\RobotSpiderTests\bin\Debug\RobotSpiderTests.dll
+d:\documents\visual studio 2015\Projects\RobotSpider\RobotSpiderTests\bin\Debug\RobotSpiderTests.pdb
+d:\documents\visual studio 2015\Projects\RobotSpider\RobotSpiderTests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+d:\documents\visual studio 2015\Projects\RobotSpider\RobotSpiderTests\bin\Debug\RobotSpider.exe
+d:\documents\visual studio 2015\Projects\RobotSpider\RobotSpiderTests\bin\Debug\RobotSpider.pdb
+d:\documents\visual studio 2015\Projects\RobotSpider\RobotSpiderTests\obj\Debug\RobotSpiderTests.csprojResolveAssemblyReference.cache
+d:\documents\visual studio 2015\Projects\RobotSpider\RobotSpiderTests\obj\Debug\RobotSpiderTests.dll
+d:\documents\visual studio 2015\Projects\RobotSpider\RobotSpiderTests\obj\Debug\RobotSpiderTests.pdb
+d:\documents\visual studio 2015\Projects\RobotSpider\RobotSpiderTests\bin\Debug\NSubstitute.dll
+d:\documents\visual studio 2015\Projects\RobotSpider\RobotSpiderTests\bin\Debug\NSubstitute.xml
